@@ -1,15 +1,20 @@
 body{
-    background-color: darkgrey;
+    background-color: #313142;
 }
-h1{
-    text-align: center;
-    color: rgb(44, 89, 172);
+nav{
+    border-bottom: 2px solid;
 }
-button{
-    text-decoration: none;
-    color: black;
-    margin: 0 0 5% 45%;
-    padding: 25px;
-    border-radius: 5px;
 
+.me-img{
+    width:auto;
+    height: 40rem;
 }
+
+.about{
+    background-color: #0b1c2c;
+    border-radius: .25rem;
+}
+.img-about{
+    width: auto;
+    height: 30rem;
+} 
